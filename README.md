@@ -76,6 +76,7 @@ In this Proof of Concept (POC), we consider one member from each sector of parti
 **Instructions for Installation of Application:**
 
 1. Download the folder "VMS-app"
+2. Do npm install in both vmsClient and vmsProcessor folder
 2. Open terminal from the folder "VMS-app" and give the command 
 3. (-) sudo docker-compose up
 4. After running all the containers 
